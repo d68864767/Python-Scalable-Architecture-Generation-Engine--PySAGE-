@@ -1,0 +1,12 @@
+# default.j2
+
+{{ project }}/
+    src/
+        __init__.py
+    tests/
+        __init__.py
+    docs/
+    README.md
+    .gitignore
+    setup.py
+    requirements.txt
